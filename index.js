@@ -49,7 +49,6 @@ const listTitle = document.querySelector(".container-colors > h2");
 listTitle.setAttribute("class", "list-title");
 listTitle.style.cssText = `
 font-size: 4rem;
-margin: auto;
 `;
 
 const list = document.querySelector("ul");
