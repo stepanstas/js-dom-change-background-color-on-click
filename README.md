@@ -1,4 +1,4 @@
-# DOM Manipulation: Change Background Color on Click
+# DOM Manipulation Practice Exercise: Change Background Color on Click
 
 - Create an HTML file with an empty body and save it as "index.html".
 
